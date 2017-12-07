@@ -1,7 +1,6 @@
 ---
 title: "AL1CE Moon Drop for December Released"
 date: 2017-12-07T09:27:49-08:00
-draft: true
 
 categories: ['Music']
 tags: ['Dance', 'Electronic']
