@@ -9,7 +9,7 @@ enableRobotsTXT = true
 DefaultContentLanguage = "en"
 
 # Enable / Disable Google Analytics statistics for your site
-googleAnalytics = ""
+googleAnalytics = "UA-34666914-1"
 
 # Enable / Disable comments on the articles via Disqus.
 disqusShortname = "scott-landes"
@@ -53,7 +53,7 @@ disqusShortname = "scott-landes"
   twitter    = "https://twitter.com/scottlandes"
   googleplus = ""
   pinterest  = ""
-  instagram  = ""
+  instagram  = "http://www.instagram.com/scottlandes"
   tumblr     = ""
   youtube    = ""
   vimeo      = ""
