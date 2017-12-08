@@ -23,10 +23,11 @@ For "Waiting For You", our most recent AL1CE release, I feel like this song real
 {{< instagram BcU3UHQAsU_ >}}
 <br>
 
-The recorded material was about 70% there, but I wanted there to be more textural movement - something that undulates and brings teh lsitener closer.  I utilized the UAD Korg SDD Delay plugin (which I use for pretty much, like, everything now..  I <3 UAD!) and created some rhythmic delays based on teh lead vocal lines.  For the delayed vocal effect I chained a keyed compressor (keyed by the dry lead vocal line) right after so that the delay would only bloom out when the vocal lines end.  This is pretty much my new favorite vocal effect and use it for everything.
+The recorded material was about 70% there, but I wanted there to be more textural movement - something that undulates and brings the listener closer into the song.  I utilized the UAD Korg SDD Delay plugin (which I use for pretty much, like, everything now..  I <3 UAD!) and created some rhythmic delays based on the lead vocal lines.  For the delayed vocal effect I chained a keyed compressor (keyed by the dry lead vocal line) right after so that the delay would only bloom out when the vocal lines end.  This is pretty much my new favorite vocal effect and use it for everything.
 
-I also started experimenting with some reverse reverb effects - in teh beginning of the song, you will can hear a couple of examples of that both in the intro and the sound swell right before the first verse.  
+I also started experimenting with some reverse reverb effects - in the beginning of the song, you will can hear a couple of examples of that both in the intro and the sound swell right before the first verse.  
 
-I have also been really trying to hone in my live drum mixing skills.  This, to me, is probably the hardest thing about making a rock sound sound 'right' - the drums have to be present and punchy, but not too overbearing.  For this, I bus out all drums and slap on a UAD Shadow Hills Mastering Compressor and do some very conrolled compression to try and bring everything out.  Also, correct balance of both room and OH mics are essential.  I can make an entire blog post just about this... I think I will.
+I have also been really trying to hone in my live drum mixing skills.  This, to me, is probably the hardest thing about making a rock sound sound 'right' - the drums have to be present and punchy, but not too overbearing.  For this, I bus out all drums and slap on a UAD Shadow Hills Mastering Compressor and do some very controlled compression to try and bring everything out.  Also, correct balance of both room and OH mics are essential.  I can make an entire blog post just about this... I think I will.
 
 Overall, mixing "Waiting For You" was truly an enjoyable experience.  Listening to the song on both my studio monitors and through my iPhone speaker were both equally pleasing to my ears.  I hope you like the song!
+
