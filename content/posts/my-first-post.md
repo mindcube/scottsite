@@ -3,7 +3,7 @@ title: "New blog is up!"
 date: 2017-12-07T09:16:18-08:00
 ---
 
-I'm super excited to announce that I'm doing a complete reset for my personal website and blog.  My goal is to use this as a dumping ground for my thoughts and meanderings on my currnet projects.  I have a lot of projects in the fire right now that are in some stage of completion so I think that I can learn by tracking my progress here.
+I'm super excited to announce that I'm doing a complete reset for my personal website and blog.  My goal is to use this as a dumping ground for my thoughts and meanderings on my current projects.  I have a lot of projects in the fire right now that are in some stage of completion so I think that I can learn by tracking my progress here.
 
 ##### Current Projects
 
