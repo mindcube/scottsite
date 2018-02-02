@@ -1,0 +1,27 @@
+---
+title: "AL1CE Blood Moondrop released and other fun updates"
+date: 2018-02-02T10:40:47-08:00
+
+categories: ['Music']
+tags: ['Dance', 'Electronic', 'Bands', 'AL1CE', 'The Alice Project', 'Coding', 'Life', 'Business']
+
+spotify:    "spotify:track:7w2WH4m8WejbYm8bFT6nDm"
+soundcloud: ""     # https://soundcloud.com/lightbooks/alchemist-08-new-world-order-snip
+tunein:     ""     # t117894382
+mixcloud:   ""     # scienceforthepeople/445-ai-ant-intelligence
+---
+
+Hello interweb friends!  Thanks for coming to my blog.  It has been a while since I've posted, and yet another AL1CE Moondrop has been released: "End Of Times (Redux)" is now out on all major streaming platforms.  If you have been a fan or follower of AL1CE since our first album, "End Of The Beginning", you will notice that this is a re-release of the first track.  I can't believe it has been nearly 8 years since we put that album out on 11/11/2011.  We thought that 11/11 was going to be the end of the world or some such shit, but I guess that it wasn't.  We had a huge album release show at Bar Sinister, and hand made 100 individual box sets.  We haven't released a proper AL1CE album since, but instead we've been releasing one song and one music video for every full moon that comes around.  Yes, that means that in teh months where there are _2_ full moons, we actually will release 2 Moondrops in one month... Like we did this month.  January 2nd was "Moonbeams", and January 31 was "End Of Times".  It was a busy couple of months!
+
+"End Of Times" holds a really special place in my own heart.  It is one of the first songs I wrote that screamed AL1CE.  And when I say that I _wrote_ it, I mean that I just came up with a demo version of the music, and my band-mates made it come to life with sounds, arrangement and lyrics.  After 8+ years of playing it live, we believe that the song itself evolved to a place where we could do it justice through re-recording, remixing and essentially, starting from scratch.  I'm really happy with how it came out, because I feel like it is a more honest representation of what we sound like now, compared to when we originally recorded and released it in 2011.  I feel that AL1CE has come a long, long way from what we were back then. 
+
+In other news, one of the other Alice Project bands played NAMM for the 2nd year in a row.  I remember first coming out to California and learning about NAMM - I always wanted to go but always felt like an outsider to the industry.  For whatever reason, the awesome people at NAMM extended performance invitations to us two years in a row now.  I think one of my favorite things about playing at the convention is that people really appreciate and love watching live music.  It is something that is relatively rare, at least when gigging in the small club / dive bar circuits.  Playing events that are focused on the live music aspect is always such an incredible joy.  Working with professional crews is teh icing on top that always makes it a golden experience: FOH sound, monitor mixers and stage hands really create a smoothness to a live show that always translates to the fans.
+
+For the month of February, AL1CE will be embarking into some snowy lands to film footage for not one but _two_ music videos in the course of one weekend.  We have some brand new songs coming up for release - these are songs that we haven't even played live yet so I'm really excited to see how they will go.
+
+Beyond that, I'm back to my normal day to day routine of coding and music, music and coding, pretty much non-stop.  I've been building up my consulting work as a freelance web developer, and work has been coming in at a steady pace.  I may even be able to financially break even this month with all of the work that has been coming in.  This is really, really good - as being a freelance web developer still affords me the time to focus on my music.  I did take an interview last week with an incredible company: Native Instruments.  I've been a fan and user of their products for well over a decade.  They are looking to bring on a full stack developer, and I made it to the second round of interviews last week.  I thought it went well, though if I do get a job offer I'd have to really take some time to consider it.  It would be an onsite, 9-5 kind of gig where I would have to commute in and out of Hollywood every day (no remote).  Definitely something to think about.  It would be hard to pass up a solid job at this point though.
+
+Tourouter has unfortunately been coming last most days as I've been trying to survive and work at break-neck speeds to get these full moon releases out for AL1CE.  With that said, I've been making steady progress when I last checked into that codebase; and it will be only a matter of time until v2 is out.  I really want to do that product justice, and as my first fully launched business, I'm happy with the results, insofar that Tourouter generates signups on a weekly, sometimes daily basis with absolutely no marketing efforts.  I'm really looking forward to the next release when i really ramp up marketing.  I just want the product to really be in a place where I know people will pay for it; that has been the one thing that has been elusive to me: finding paying customers.  Most poeople sign up for the free trial and then just never come back.
+
+In all, it's been a good start to 2018.  More updates to come...
+

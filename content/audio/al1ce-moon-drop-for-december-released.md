@@ -12,7 +12,7 @@ mixcloud:   ""     # scienceforthepeople/445-ai-ant-intelligence
 ---
 
 "Waiting For You", our Moon Drop for December has been released!  Every month I feel like I learn something new about mixing
-and mastering with my Apollo UAD system.  Two or three releases ago (I forget which) we (the band) collectively decided to keep all of our mixing and production in house because the cost was just beyond what we could afford.  We don't really make much money from these releases so the best thing we can do is try and do as much of the back end/production related elements ourselves.  That way, we keep costs low - and in the end, we have new skills up our colleective sleeves.
+and mastering with my Apollo UAD system.  Two or three releases ago (I forget which) we (the band) collectively decided to keep all of our mixing and production in house because the cost was just beyond what we could afford.  We don't really make much money from these releases so the best thing we can do is try and do as much of the back end/production related elements ourselves.  That way, we keep costs low - and in the end, we have new skills up our collective sleeves.
 
 I've always wanted to be able to properly mix music - I just don't think I ever thought I could.  I don't know *why* I've had that thought, but I did.  It was only until I truly just let go of that thought - the negative self talk that I'm just inherently *not good* at mixing, that i actually started making progress.  It is weird how that works sometime.  I still have so much to learn and a long way to go, but for the first time I'm feeling pretty confident about this.  
 
