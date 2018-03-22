@@ -13,7 +13,7 @@ Beyond food, is sleep.  I love sleeping on the road because it is so incredibly 
 
 We’ve been very lucky insofar that people have responded well to our live music so far - plus we’ve made a point of really building up our merch presence.  Gordon has spearheaded some incredible designs that really help - and masterminded the idea of the Moon Drop key.  if you catch us n the road, make sure to ask about it.
 
-It is just incredible what everyone brings to the table.  Sasha literally pumps out new music videos from our workstations in the van; Steve is a driving beast, and offers a lot of insight when it come stop marketing, setlist order, and overall show flow.  And this is all just the tip of the iceberg, so to speak.  In all, touring as an indie band is not easy, but the more each person uses their own skills for the greater whole, the easier it becomes.  Like a well oiled machine.
+It is just incredible what everyone brings to the table.  Sasha literally pumps out new music videos from our workstations in the van and does makeup for everyone night after night; Steve is a driving beast, and offers a lot of insight when it come stop marketing, setlist order, and overall show flow (don't forget his doctoring skills...).  And this is all just the tip of the iceberg, so to speak.  In all, touring as an indie band is not easy, but the more each person uses their own skills for the greater whole, the easier it becomes.  Like a well oiled machine.
 
 Tonight we’re playing Santa Fe, and we’re about to roll up to the venue in 10 minutes.  Then tomorrow is the last day of the tour in Flagstaff, AZ.  
 
