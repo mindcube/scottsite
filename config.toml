@@ -18,6 +18,8 @@ disqusShortname = "scott-landes"
   # Favicon for the browser's favorites and tabs
   favicon = "" # set a favicon icon
 
+  custom_css = ["css/custom.css"]
+
   # Description and meta data for the search engines
   author = "Scott Landes"
   description = "All things related to Scott - music, code, life, and madness."
