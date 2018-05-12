@@ -13,6 +13,6 @@ with back end technologies is _really_ useful when working on the front end - bu
 
 With Stellar, I'm working with some incredible designers so it has been a great challenge to really up my front end coding game when it comes to creating close to pixel perfect, responsive and multi-browser compatible websites.  I can definitely say that I've already grown by leaps and bounds.  Anyhow, check out the newest addition to my portfolio here below.
 
-<img src="/software-monetization.jpg" style="max-width: 100%">
+[<img src="/software-monetization.jpg" style="max-width: 100%">]((https://stellaragency.com/softwaremonetization))
 
 Stellar Digital Agency - Software Monetization Landing Page: https://stellaragency.com/softwaremonetization
